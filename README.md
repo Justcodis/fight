@@ -5,6 +5,6 @@ Choose C branch or C++ branch.
 # How to build
 Make sure you have c/c++ compiler in your platform and use:
 For C:
-'''gcc fight.c -o fight'''
+```gcc fight.c -o fight```
 For C++:
-'''g++ fight.cpp -o fight'''
+```g++ fight.cpp -o fight```
