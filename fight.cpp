@@ -468,7 +468,7 @@ int main()
         start.play();
         retry = start.get_re();
         start.unleak();
-    } while (retry = 1);
+    } while (retry == 1);
     
     std::cout << "Thanks for Playing!";
     return 0;
